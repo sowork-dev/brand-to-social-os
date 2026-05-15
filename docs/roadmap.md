@@ -64,3 +64,15 @@ We prioritize work that does at least one of these:
 - client-specific playbooks
 - enterprise setup complexity
 - publishing tools that depend on sensitive credentials
+
+## Initial issue batch
+
+The first public backlog is now live as GitHub issues:
+
+- #1 Add LinkedIn operator pack
+- #2 Add X / Twitter operator pack
+- #3 Add newsletter repurposing pack
+- #4 Add content quality scorecard
+- #5 Add message resonance review template
+- #6 Expand demo cases into full B2B SaaS, agency, and ecommerce packs
+- #7 Add a simple issue-driven roadmap section to README
