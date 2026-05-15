@@ -134,7 +134,7 @@ The stronger demand is for a **marketing operating system** that connects strate
 
 - Public roadmap: `docs/roadmap.md`
 - Fictionalized demo cases: `examples/demo-cases.md`
-- Live backlog: [#1](https://github.com/sowork-dev/brand-to-social-os/issues/1), [#2](https://github.com/sowork-dev/brand-to-social-os/issues/2), [#3](https://github.com/sowork-dev/brand-to-social-os/issues/3), [#4](https://github.com/sowork-dev/brand-to-social-os/issues/4), [#5](https://github.com/sowork-dev/brand-to-social-os/issues/5), [#6](https://github.com/sowork-dev/brand-to-social-os/issues/6), [#7](https://github.com/sowork-dev/brand-to-social-os/issues/7)
+- Live backlog: [#1](https://github.com/sowork-dev/brand-to-social-os/issues/1), [#2](https://github.com/sowork-dev/brand-to-social-os/issues/2), [#3](https://github.com/sowork-dev/brand-to-social-os/issues/3), [#4](https://github.com/sowork-dev/brand-to-social-os/issues/4), [#5](https://github.com/sowork-dev/brand-to-social-os/issues/5), [#6](https://github.com/sowork-dev/brand-to-social-os/issues/6)
 
 ## What has been intentionally removed
 
