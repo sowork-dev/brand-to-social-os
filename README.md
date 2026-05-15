@@ -130,6 +130,11 @@ We believe the best public opportunity is not another social scheduler.
 
 The stronger demand is for a **marketing operating system** that connects strategy to execution. See `docs/market-opportunity.md` for a short research summary and comparable public repositories.
 
+## Roadmap and demo cases
+
+- Public roadmap: `docs/roadmap.md`
+- Fictionalized demo cases: `examples/demo-cases.md`
+
 ## What has been intentionally removed
 
 This public repo does **not** include:
