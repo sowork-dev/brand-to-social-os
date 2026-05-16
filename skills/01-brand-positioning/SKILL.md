@@ -194,3 +194,47 @@ Positioning Score: [X]/30 — [rating]
 - [ ] At least 4 proof points, each specific and verifiable
 - [ ] Voice principles include do / do-not examples
 - [ ] Last updated date recorded
+
+---
+
+## Common mistakes -- Taiwan brands
+
+These are the most frequent failures when running this skill for brands going global from Taiwan.
+
+**Mistake 1: Writing for the internal team, not the buyer**
+The positioning sounds good to the founders and the marketing team, but the audience has never seen this language. Fix: Read every line and ask -- would my buyer actually say this? If not, rewrite.
+
+**Mistake 2: Listing product features as proof points**
+Reasons to believe should be outcomes, not capabilities. Wrong: We have an AI-powered dashboard. Right: Clients reduce time-to-insight from 3 days to 4 hours in the first week.
+
+**Mistake 3: The strategic contrast is too safe**
+Most Taiwan brands write a contrast that is technically true but not bold enough to differentiate. If your competitor could post the same contrast on their website without embarrassment, it is not sharp enough.
+Example of weak contrast: Most brands focus on technology. We focus on the customer.
+Example of strong contrast: Most global data vendors sell reports. We believe the signal is always in the conversation -- and that is why we watch social behaviour, not survey responses.
+
+**Mistake 4: The audience is a demographic, not a situation**
+Wrong: Marketing managers at B2B companies, 30-45 years old.
+Right: Marketing leads at Taiwan hardware brands preparing their first US DTC launch, who have product-market fit in Asia but have never written English copy for a Western audience.
+
+**Mistake 5: Voice principles are adjectives, not rules**
+Wrong: Professional, warm, and approachable.
+Right: Never use passive voice. Say what you mean. Example -- use cuts, not reduces friction. Never write we are passionate about or we believe in the power of.
+
+**Mistake 6: Running this skill without first talking to buyers**
+Brand positioning built from internal assumptions only will produce internal language. Before running this skill, the founder should be able to recall at least 3 exact phrases buyers have used when describing their problem.
+
+---
+
+## Framework reference
+
+This skill uses the Strategic Contrast framework as its primary structure.
+For advanced positioning work, see also: April Dunford (Obviously Awesome) and JTBD frameworks.
+
+Full framework details: `skills/references/positioning-frameworks.md`
+
+---
+
+## Benchmark reference
+
+For quality calibration examples (strong vs weak positioning), see:
+`skills/references/benchmarks-taiwan-global.md` -- Brand Positioning Quality Benchmarks section
