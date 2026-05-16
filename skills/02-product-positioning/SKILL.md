@@ -206,3 +206,37 @@ Product Positioning Score: [X]/30 — [rating]
 - [ ] At least 4 proof points with numbers or named outcomes
 - [ ] 3 launch angles, each usable as a content or sales opener
 - [ ] Last updated date recorded
+
+---
+
+## Common mistakes -- Taiwan brands
+
+**Mistake 1: Describing the product instead of the promise**
+Product positioning is not a feature list. The promise is what the user gets, not what the product does. Wrong: Our platform integrates with 50+ data sources. Right: You stop spending Monday morning pulling numbers and start the week knowing what changed.
+
+**Mistake 2: The alternative is a fantasy competitor, not what buyers actually do today**
+The real alternative is almost always a manual process, a spreadsheet, or doing nothing -- not your nearest competitor. Most Taiwan B2B brands compare themselves to enterprise software. Their buyer is actually copying data into Excel.
+
+**Mistake 3: The job to be done is at the feature level**
+Wrong: Users want to track their brand mentions. Right: Brand and comms leads at Taiwan companies entering US markets want to know what American consumers actually believe about their category -- without reading 400 English articles a week.
+
+**Mistake 4: Objection handling addresses the surface objection, not the root cause**
+When a buyer says it is too expensive, the root cause is usually I do not believe the ROI is real. Address the belief, not the price.
+
+**Mistake 5: Launch angles are too vague to execute**
+A launch angle should be specific enough to become the first line of a LinkedIn post or a sales email opener. Wrong: We help brands grow globally. Right: The first thing most Taiwan brands get wrong when entering the US market is confusing localisation with positioning.
+
+---
+
+## Framework reference
+
+This skill uses JTBD (Jobs to be Done) for the user and use case section, and Message Hierarchy for the full output structure.
+
+Full framework details: `skills/references/positioning-frameworks.md`
+
+---
+
+## Benchmark reference
+
+For quality calibration, see:
+`skills/references/benchmarks-taiwan-global.md` -- Brand Positioning Quality Benchmarks section
