@@ -227,3 +227,42 @@ Add to output: `Post Score: [X]/40 -- [Excellent / Ready / Needs revision]`
 - [ ] Short paragraphs with white space throughout
 - [ ] First comment text written for any post with an external link
 - [ ] After-publish tracking note included
+
+---
+
+## Common mistakes -- Taiwan brands on LinkedIn
+
+**Mistake 1: Posting in Chinese on LinkedIn**
+LinkedIn's algorithm distributes content to first-degree connections first, then their networks. If the account is targeting US or EU buyers, posting in Chinese means 90%+ of reach stays inside the Taiwan professional network. Publish in English for global audience building. Use Chinese only for Taiwan-specific content or announcements.
+
+**Mistake 2: Starting with I am excited to, We are proud to, or Thrilled to share**
+This is the single most common opener among Taiwan brand accounts and the most reliable way to get scrolled past. LinkedIn readers in English-speaking markets associate these openers with press releases and corporate announcements. They stop reading. See the banned opener list in this skill.
+
+**Mistake 3: Putting a link in the post body**
+LinkedIn penalises posts with outbound links in the body by reducing their organic reach by an estimated 50-70%. Always put links in the first comment, published immediately after the post goes live. This applies to every post, every time.
+
+**Mistake 4: Replying to comments with emoji or one-word responses**
+Every reply is a mini-post seen by the commenter's network. A reply that says thanks or great point is a wasted distribution opportunity. Write a reply that adds a new dimension to the original post or asks a follow-up question that invites further engagement.
+
+**Mistake 5: Writing about the company instead of the audience**
+The most reliable signal of low-performing LinkedIn content is that the post is about the company, not about the audience's problem. Wrong: We just launched a new feature that helps teams collaborate better. Right: Most remote teams I have talked to have the same coordination problem. Here is the pattern I keep seeing.
+
+**Mistake 6: Writing long paragraphs**
+LinkedIn readers scroll on mobile. A paragraph of more than 3 lines is invisible on a phone screen. Every paragraph break is a breath that keeps people reading. If a block of text is longer than 3 lines, break it.
+
+**Mistake 7: Inconsistent publishing breaks momentum**
+LinkedIn's algorithm learns your audience over time. An account that publishes 5 times one week and then goes silent for 2 weeks resets that learning. The algorithm does not remember your good weeks. Consistency over 8 weeks beats any single viral post.
+
+---
+
+## Framework reference
+
+This skill uses Hook Frameworks (Framework 5) for post writing. For a full reference of all 6 hook types, banned openers, and when to use each framework, see:
+`skills/references/positioning-frameworks.md` -- Framework 5 section
+
+---
+
+## Benchmark reference
+
+For LinkedIn engagement rate benchmarks, format reach multipliers, post length standards, and Taiwan brand-specific patterns, see:
+`skills/references/benchmarks-taiwan-global.md`
