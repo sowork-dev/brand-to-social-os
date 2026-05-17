@@ -212,3 +212,34 @@ Pillar Score: [X]/30 -- [rating]
 - [ ] Conversion pillar has proof inventory to support it
 - [ ] Score 22/30 or above
 - [ ] Last updated date recorded
+
+
+## Common mistakes -- Taiwan brands
+
+These are the most frequent failures when running this skill for Taiwan brands going global.
+
+**Mistake 1: Five pillars, all indistinguishable**
+The most common output from Taiwan teams looks like: Industry News, Company Updates, Product Features, Team Stories, and Tips. These are not strategic content pillars -- they are content types. A real pillar answers: what does publishing this content make the audience believe? Each pillar should produce a different belief. If you cannot state the belief each pillar builds, the pillars are not strategic.
+
+**Mistake 2: No proof inventory before designing the proof pillar**
+Proof pillar content requires real results: named clients, specific numbers, before/after outcomes. Taiwan teams frequently design the proof pillar with no actual proof to fill it. The result is either the pillar stays empty or the team writes vague claims that damage credibility. Fix: inventory your proof before running this skill. If you have fewer than 3 specific results with numbers, the proof pillar should be labeled 'to be built' and not used until proof exists.
+
+**Mistake 3: The education pillar teaches what the audience already knows**
+Taiwan brands entering global markets often write educational content that is too basic for their target audience. A brand targeting US marketing directors does not need to explain what a content strategy is. The education pillar should teach the audience to see the problem differently, not explain fundamentals they already know. Test: would your target buyer share this with a peer? If not, it is too basic.
+
+**Mistake 4: Skipping the conversion pillar because it feels uncomfortable**
+Many founders avoid the conversion pillar because it feels 'salesy'. The result is a content strategy with no path to revenue. The conversion pillar is not a spam pillar -- it is a structured invitation to the next step for people who are already warm. Without it, content generates awareness but no action. Ratio guidance: 1 conversion post for every 4-5 non-conversion posts is sustainable and non-aggressive.
+
+**Mistake 5: The behind-the-scenes pillar becomes a company news channel**
+Company announcements (we hired someone, we attended an event, we won an award) are not behind-the-scenes content. Behind-the-scenes content shows the decision process, the mistakes, the thinking. It should make the audience feel they are getting access to something real. Company announcements feel like PR. Process reveals feel like access. The audience wants access.
+
+**Mistake 6: Pillar mix does not match business goal**
+A brand in early awareness mode should weight education and POV heavily. A brand with warm leads ready to convert should increase the proof and conversion pillar frequency. Taiwan brands in their first 6 months of global content often run a mix designed for an established brand -- heavy on conversion, light on trust-building. This produces a content feed that feels transactional to an audience that does not know the brand yet.
+
+## Framework reference
+
+This skill uses the Content Pillar Framework (5-pillar model). For the full framework including pillar-to-business-goal mapping and mix guidance by growth stage, see: `skills/references/positioning-frameworks.md` -- Framework 4 section
+
+## Benchmark reference
+
+For content pillar engagement rate benchmarks by pillar type, optimal mix ratios by audience size, and Taiwan brand-specific content performance patterns, see: `skills/references/benchmarks-taiwan-global.md`
