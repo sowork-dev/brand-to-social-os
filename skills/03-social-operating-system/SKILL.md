@@ -228,3 +228,34 @@ Social OS Score: [X]/30 -- [rating]
 - [ ] Experiment backlog has at least 5 items queued
 - [ ] Score 22/30 or above
 - [ ] Last updated date recorded
+
+
+## Common mistakes -- Taiwan brands
+
+These are the most frequent failures when running this skill for brands going global from Taiwan.
+
+**Mistake 1: Designing the system for aspiration, not capacity**
+Taiwan marketing teams consistently overplan. They set a cadence of 5 posts per week with 3 channels when actual capacity is 2 hours per week. The system collapses within 3 weeks. Fix: Design for what the team can sustain for 8 consecutive weeks, not for the best-case sprint. Cut the cadence before you cut the quality.
+
+**Mistake 2: Treating all channels equally**
+Posting the same content to LinkedIn, Instagram, Facebook, and X simultaneously is not a multi-channel strategy -- it is a copy-paste operation. Each channel has a different audience behaviour. LinkedIn rewards text-heavy professional insight. Instagram rewards visual. X rewards speed and brevity. Running 4 channels with identical content is worse than running 1 channel well. For Taiwan brands going global, start with one primary channel and earn the right to add the second.
+
+**Mistake 3: The repurposing ratio is 1:1**
+Most Taiwan teams publish a post once and never return to the idea. One strong idea should produce 3-5 pieces of content minimum. A founder insight becomes a long-form post, then a short summary, then a thread, then a newsletter section. If the repurposing ladder has no entries, the system is operating at 20% efficiency.
+
+**Mistake 4: No experiment backlog -- only production**
+Teams that only produce content without testing hypotheses plateau. After 4-6 weeks of consistent output, the algorithm knows your audience and you start to see diminishing returns on repeating the same format. The experiment backlog is not optional -- it is what prevents content from going stale. Minimum: 1 experiment per week, reviewed in skill 05.
+
+**Mistake 5: Topic selection driven by what the team wants to say, not what the audience is searching for**
+This is the most common cause of audience mismatch. The team writes about product features and company milestones. The audience is searching for answers to business problems. The topic scoring system in this skill exists specifically to prevent this. If a topic scores below 6/12 on the topic scoring rubric, it should not enter the active calendar.
+
+**Mistake 6: Engagement treated as optional**
+In the first 60 minutes after posting, engagement signals determine reach for the next 24 hours. Brands that do not reply to comments in this window lose 40-60% of potential organic distribution. For Taiwan teams in UTC+8 posting to US or EU audiences: schedule posts for 7-8 AM US Eastern time (7-8 PM Taiwan time) and have someone available for the first hour.
+
+## Framework reference
+
+This skill uses the Weekly Publishing Loop and Topic Scoring system. For channel selection decision trees and repurposing ratio targets, see: `skills/references/positioning-frameworks.md`
+
+## Benchmark reference
+
+For LinkedIn cadence benchmarks, channel engagement rate comparisons, and Taiwan brand-specific social system patterns, see: `skills/references/benchmarks-taiwan-global.md`
