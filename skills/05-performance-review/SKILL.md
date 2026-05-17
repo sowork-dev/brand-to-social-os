@@ -233,3 +233,34 @@ Review Score: [X]/30 -- [rating]
 - [ ] At least 1 experiment queued for next week with hypothesis
 - [ ] Score 20/30 or above
 - [ ] Last updated date recorded
+
+
+## Common mistakes -- Taiwan brands
+
+These are the most frequent failures when running this skill for Taiwan brands going global.
+
+**Mistake 1: Using impressions as the primary success metric**
+Impressions tell you how many times content appeared in a feed. They do not tell you whether it reached the right people or produced any business result. Taiwan brands entering global markets tend to benchmark against raw reach because it is the most visible number. The more useful question is: how many of your top 10 posts this month reached someone who matches your buyer profile? Engagement rate from the right audience is worth 10x the impressions from the wrong one.
+
+**Mistake 2: Reviewing content in isolation, not against the positioning**
+A post can have high engagement and still be the wrong content. If a Taiwan brand's top performing post is a meme and the brand is trying to build B2B authority, that is a signal failure, not a success. Every review should start with: are the posts that perform best moving us toward the goal, or away from it?
+
+**Mistake 3: No experiment results because no experiments were run**
+The experiment backlog from skill 03 requires intentional execution. Most teams plan experiments and then revert to safe content when time is short. If the weekly review consistently shows zero experiments completed, the system is running on autopilot and will plateau. One experiment per week is the minimum. Run it even when you are busy -- a small test is better than no learning.
+
+**Mistake 4: Treating all audience engagement as equal**
+A comment from a potential client worth $50K in annual contract value is not the same as a like from a fellow marketer with no buying intent. The audience quality check section exists for this reason. Taiwan brands often celebrate total engagement without asking: who exactly is engaging? Build the habit of categorising your top commenters and DMs by buyer fit once per week. This is the most underused signal in social analytics.
+
+**Mistake 5: Reviewing metrics without making decisions**
+The performance review is not a data reporting exercise. Its purpose is to produce 3 types of decisions: what to repeat, what to stop, and what to test next. A review that ends with a list of numbers and no decisions is not a review -- it is a measurement. If every section in the review output ends with a table but no action, run the review again with a single focus question: what is the one thing we will do differently next week?
+
+**Mistake 6: Monthly calibration skipped because it is not urgent**
+The monthly calibration (message-market fit check) is the most strategic part of the performance review and the most frequently skipped. Taiwan brands in their first 90 days of global content need this check monthly to avoid drifting. The questions to ask once per month: is the audience engaging the same audience we are selling to? Is the strategic contrast we defined in skill 01 actually landing in the content, or has the voice drifted toward generic?
+
+## Framework reference
+
+For content scoring rubrics and decision frameworks used in the winner/loser analysis, see: `skills/references/positioning-frameworks.md`
+
+## Benchmark reference
+
+For LinkedIn engagement rate benchmarks by account size and content type, and Taiwan brand-specific performance benchmarks, see: `skills/references/benchmarks-taiwan-global.md`
